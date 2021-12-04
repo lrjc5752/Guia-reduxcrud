@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja con zanahoria y perejil",
+      "precio": "3041",
+      "id": 3
+    },
+    {
+      "nombre": "Tequila con vodka, sabrooso",
+      "precio": "112",
+      "id": 5
+    },
+    {
+      "nombre": "jugo de mandarina",
+      "precio": 15,
+      "id": 9
+    },
+    {
+      "nombre": "cambur manzano ",
+      "precio": "888",
+      "id": 12
+    },
+    {
+      "nombre": "piña colada",
+      "precio": 745,
+      "id": 14
+    },
+    {
+      "nombre": "vodka con kalua",
+      "precio": 6566,
+      "id": 15
+    },
+    {
+      "nombre": "tizana con colita",
+      "precio": 54,
+      "id": 17
+    },
+    {
+      "nombre": "tres en uno",
+      "precio": "2311",
+      "id": 18
+    },
+    {
+      "nombre": "coctel de frutas con  sangria",
+      "precio": 325,
+      "id": 19
+    },
+    {
+      "nombre": "cocada con coconut",
+      "precio": 54,
+      "id": 20
+    },
+    {
+      "nombre": "tarea  nueva",
+      "precio": 1,
+      "id": 21
+    },
+    {
+      "nombre": "Elegir Plataforma",
+      "precio": 3,
+      "id": 22
+    }
+  ]
+}
